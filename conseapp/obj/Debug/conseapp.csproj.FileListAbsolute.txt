@@ -1,0 +1,8 @@
+F:\Day - 2\conseapp\conseapp\bin\Debug\conseapp.exe.config
+F:\Day - 2\conseapp\conseapp\bin\Debug\conseapp.exe
+F:\Day - 2\conseapp\conseapp\bin\Debug\conseapp.pdb
+F:\Day - 2\conseapp\conseapp\obj\Debug\conseapp.csproj.AssemblyReference.cache
+F:\Day - 2\conseapp\conseapp\obj\Debug\conseapp.csproj.SuggestedBindingRedirects.cache
+F:\Day - 2\conseapp\conseapp\obj\Debug\conseapp.csproj.CoreCompileInputs.cache
+F:\Day - 2\conseapp\conseapp\obj\Debug\conseapp.exe
+F:\Day - 2\conseapp\conseapp\obj\Debug\conseapp.pdb
